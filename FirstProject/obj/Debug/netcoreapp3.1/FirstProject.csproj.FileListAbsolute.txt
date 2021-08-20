@@ -35,3 +35,4 @@ C:\Users\SHAHED\Desktop\AdamFreemanBOokPractice\FirstProject\obj\Debug\netcoreap
 C:\Users\SHAHED\Desktop\AdamFreemanBOokPractice\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.dll
 C:\Users\SHAHED\Desktop\AdamFreemanBOokPractice\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.pdb
 C:\Users\SHAHED\Desktop\AdamFreemanBOokPractice\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.csproj.CopyComplete
+C:\Users\SHAHED\Desktop\AdamFreemanBOokPractice\FirstProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
