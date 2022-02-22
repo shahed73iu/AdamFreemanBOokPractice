@@ -4964,11 +4964,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHAHED\\Desktop\\Projects\\AdamFreemanBOokPractice\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "C:\\Users\\SHAHED\\Desktop\\AdamFreemanBOokPractice\\SportsSln\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "C:\\Users\\SHAHED\\Desktop\\Projects\\AdamFreemanBOokPractice\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "projectPath": "C:\\Users\\SHAHED\\Desktop\\AdamFreemanBOokPractice\\SportsSln\\SportsStore\\SportsStore.csproj",
       "packagesPath": "C:\\Users\\SHAHED\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHAHED\\Desktop\\Projects\\AdamFreemanBOokPractice\\SportsSln\\SportsStore\\obj\\",
+      "outputPath": "C:\\Users\\SHAHED\\Desktop\\AdamFreemanBOokPractice\\SportsSln\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SHAHED\\AppData\\Roaming\\NuGet\\NuGet.Config",
