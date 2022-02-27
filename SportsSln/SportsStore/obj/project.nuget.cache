@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nCY81vwQMAQr79uDcXMeuHTAs2YxH9oSYNGgfrQvmW9izO7/19QKM291yyS9nOguajd8NJNUd3XhNm2fGsYGSg==",
+  "dgSpecHash": "YZDldA3+JGtp+UT4aLij8QuKcK5g2/PRV5Hor1/ibYmyR8i/qqpC62+5W+VtWfrEw3cO0ODuyB+M9ZcyR8T2PA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SHAHED\\Desktop\\AdamFreemanBOokPractice\\SportsSln\\SportsStore\\SportsStore.csproj",
+  "projectFilePath": "C:\\Users\\SHAHED\\Dropbox\\My PC (DESKTOP-87Q4097)\\Desktop\\AdamFreemanBOokPractice\\SportsSln\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SHAHED\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\SHAHED\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
@@ -90,8 +90,7 @@
     "C:\\Users\\SHAHED\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\SHAHED\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\SHAHED\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\SHAHED\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\SHAHED\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+    "C:\\Users\\SHAHED\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
