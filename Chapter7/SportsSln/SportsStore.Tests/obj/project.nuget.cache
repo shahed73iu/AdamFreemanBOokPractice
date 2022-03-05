@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VJqRdNCCF17+5a5AYi/x9w85GA/UPXApD1Qt4sMMw9fWpZB3eS3jc1tA1+T2gF+2pHD22qH0X+f+02C+Iq7M8w==",
+  "dgSpecHash": "zmQhK5j+kWdFDvCtN0TNVQ3+q0i9UNlyc8DCpqco69Np3xImZvPEKRTfd7r9zb3qeh301vgMuULzCxNPEaaiQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SHAHED\\Desktop\\AdamFreemanBOokPractice\\Chapter7\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
+  "projectFilePath": "C:\\Users\\SHAHED\\Dropbox\\My PC (DESKTOP-87Q4097)\\Desktop\\AdamFreemanBOokPractice\\Chapter7\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SHAHED\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\SHAHED\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
