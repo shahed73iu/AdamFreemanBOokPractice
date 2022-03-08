@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K4bYZIIJqkxuopwBdmDP4LyMfj40+hVPSsLq8plapIC2h8ByQ+kI9pC5mUA0GJxK4d75c1GPBAqoEml3bpQyrw==",
+  "dgSpecHash": "COzQiQ/cAiWv912JLM7drqKaYgu5JisVdiQMtmBDaaawHLqjM7ws+GY/1RxhIF94WwE0pxr0u7pr+gw/dgguMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SHAHED\\Dropbox\\My PC (DESKTOP-87Q4097)\\Desktop\\AdamFreemanBOokPractice\\Chapter7\\SportsSln\\SportsStore\\SportsStore.csproj",
+  "projectFilePath": "C:\\Users\\SHAHED\\Desktop\\AdamFreemanBOokPractice\\Chapter7\\SportsSln\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SHAHED\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\SHAHED\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
