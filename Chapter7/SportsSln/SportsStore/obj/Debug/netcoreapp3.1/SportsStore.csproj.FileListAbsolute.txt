@@ -130,3 +130,4 @@ C:\Users\SHAHED\Dropbox\My PC (DESKTOP-87Q4097)\Desktop\AdamFreemanBOokPractice\
 C:\Users\SHAHED\Dropbox\My PC (DESKTOP-87Q4097)\Desktop\AdamFreemanBOokPractice\Chapter7\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
 C:\Users\SHAHED\Desktop\AdamFreemanBOokPractice\Chapter7\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\libman.json
 C:\Users\SHAHED\Desktop\AdamFreemanBOokPractice\Chapter7\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHAHED\Desktop\AdamFreemanBOokPractice\Chapter7\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
