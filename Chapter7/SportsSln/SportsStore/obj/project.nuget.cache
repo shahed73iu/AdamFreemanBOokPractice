@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "COzQiQ/cAiWv912JLM7drqKaYgu5JisVdiQMtmBDaaawHLqjM7ws+GY/1RxhIF94WwE0pxr0u7pr+gw/dgguMg==",
+  "dgSpecHash": "2pmy+kPmbrJP6E+OjhyWYIETQQkql3nA49rlI+FmUEVbu/pUzmGJrApbUKfQ3cWRChkfmpSgeoMKqzjQRTK/KQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\SHAHED\\Desktop\\AdamFreemanBOokPractice\\Chapter7\\SportsSln\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [
@@ -90,7 +90,8 @@
     "C:\\Users\\SHAHED\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\SHAHED\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\SHAHED\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\SHAHED\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\SHAHED\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\SHAHED\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],
   "logs": []
 }
